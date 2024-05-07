@@ -76,7 +76,7 @@ The E-Commerce Back End is a robust and scalable backend system built using the 
 
 ## Walkthrough Video
 
-To see the project in action, please watch the [walkthrough video]().
+To see the project in action, please watch the [walkthrough video](https://www.youtube.com/watch?v=-TkMAIyel2k).
 
 ## License 
 
